@@ -28,14 +28,15 @@ O grupo pode ser encontrado no *Facebook* neste link [https://www.facebook.com/g
 - [3.3] Ninguém aqui é seu empregado e não vamos dar nenhum código completo para você. Se quer algo pronto, pague um programador para isso.
 - [3.4] Nem todos tem o mesmo conhecimento. Saiba respeitar as diferenças de potencial. Você também não nasceu sabendo.
 - [3.5] Criou um grupo no *Whatsapp*? Divulgue em outro lugar. Iremos publicar seus números em um site de bate-papo *gay* caso o faça.
-- [3.6] Não, não iremos hackear o Facebook de ninguém para você, não insista.
-- [3.7] Erros gramaticais são tolerados, mas não abuse.
-- [3.8] Todos tem o direito de serem babacas, mas não abuse.
-- [3.9] Todos também tem o direito de serem preguiçosos, mas se notarmos que não houve nenhum esforço por parte do OP na questão, deixaremos a thread livre para os zoeiros.
-- [3.A] **NÃO GRITA COMIGO. PERGUNTAS TOTALMENTE EM CAIXA ALTA SERÃO DELETADAS E O OP SERÁ SEVERAMENTE DEFENESTRADO**.
-- [3.B] Se você usa `goto` nos seus códigos, sinto muito, mas você merece ser zoado.
-- [3.C] Bom senso é igual. A regra é igual para todos e todos podem propor mudanças.
-- [3.D] Preserve as capivaras.
+- [3.6] É extremamente proibido a divulgação de outros grupos, salvo caso entre em contato com um administador, pedindo permissão.
+- [3.7] Não, não iremos hackear o Facebook de ninguém para você, não insista.
+- [3.8] Erros gramaticais são tolerados, mas não abuse.
+- [3.9] Todos tem o direito de serem babacas, mas não abuse.
+- [3.A] Todos também tem o direito de serem preguiçosos, mas se notarmos que não houve nenhum esforço por parte do OP na questão, deixaremos a thread livre para os zoeiros.
+- [3.B] **NÃO GRITA COMIGO. PERGUNTAS TOTALMENTE EM CAIXA ALTA SERÃO DELETADAS E O OP SERÁ SEVERAMENTE DEFENESTRADO**.
+- [3.C] Se você usa `goto` nos seus códigos, sinto muito, mas você merece ser zoado.
+- [3.D] Bom senso é igual. A regra é igual para todos e todos podem propor mudanças.
+- [3.E] Preserve as capivaras.
 
 ```php
 　　　　　/)─―ヘ
